@@ -6,7 +6,6 @@ Hello! NanoTrasen has requested that a survey be conducted on the population of 
 
 Facilitator Name:    [italic]NAME HERE[/italic]
                ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
-[bold]All [italic]section B[/italic] and [italic]section C[/italic] questions are optional, if you would rather not say or you do not know, simply do not respond and instead move on to the next question[/bold]
 
 [head=2]Section A[/head]
 [head=3]Personnel Identification[/head]
@@ -21,16 +20,7 @@ Role:       [color=#002AAF]Sample Answer[/color]
 [color=#aaaaaa]▀▀▀▀▀▀▀▀[/color]
 Age:        [color=#002AAF]Sample Answer[/color]
                ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
-Species:
-\[  ] Human             \[  ] Reptilian
-\[  ] Slime             \[  ] Dwarf
-\[  ] Arachnid          \[  ] Diona
-\[  ] Vulpkanin         \[  ] Felinid
-\[  ] Gingerbread       \[  ] Vox
-\[  ] Thaven            \[  ] Harpy
-\[  ] Moth              \[  ] Other:
-
-Other Species:    [color=#002AAF]Sample Answer[/color]
+Species:    [color=#002AAF]Sample Answer[/color]
                ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 Physical Appearance:
 \[  ] Male      \[  ] Female    \[  ] Not Applicable/Neither
@@ -88,4 +78,4 @@ I respect others:
 I listen to my superiors:
 
 [head=1]Congratulations![/head]
-[bold]You have reached the end of the survey. Please return your filled out survey to the survey facilitator now.[/bold]
+[bold]You have reached the end of the survey. Please sign the page then return your filled out survey to the survey facilitator now.[/bold]
