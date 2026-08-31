@@ -1,0 +1,100 @@
+# NT-H02 Job Application Form
+[color=#404040][color=#1b67a5]█▄ █ ▀█▀    [head=3]Job Application Form[/head]
+█ ▀█      █        INVALID UNLESS STAMPED OR SIGNED
+───────────────────────────────────────
+This form is used to allow specified personnel to apply for available jobs or request a unique occupation or title.
+───────────────────────────────────────[/color]
+
+[head=2]Personal details[/head]
+
+        [bolditalic]Name: [/bolditalic]
+
+        [bolditalic]Position: [/bolditalic]
+
+        [bolditalic]Shift time: [/bolditalic]
+
+        [bolditalic]Cause: [/bolditalic]
+
+
+        (  ) I certify that the provided information is accurate
+
+[head=2]JOB SELECTION[/head]
+───────────────────────────────────────
+[color=#539c00][bolditalic]Service:[/bolditalic][/color]
+        (  ) [color=#539c00 ]Bartender[/color]
+        (  ) [color=#539c00 ]Botanist[/color]
+        (  ) [color=#539c00 ]Boxer[/color]
+        (  ) [color=#539c00 ]Chaplain[/color]
+        (  ) [color=#539c00 ]Chef[/color]
+        (  ) [color=#539c00 ]Clown[/color]
+        (  ) [color=#539c00 ]Janitor[/color]
+        (  ) [color=#539c00 ]Lawyer[/color]
+        (  ) [color=#539c00 ]Librarian[/color]
+        (  ) [color=#539c00 ]Mime[/color]
+        (  ) [color=#539c00 ]Musician[/color]
+        (  ) [color=#539c00 ]Radio Host[/color]
+        (  ) [color=#539c00 ]Reporter[/color]
+        (  ) [color=#539c00 ]Service Worker[/color]
+        (  ) [color=#539c00 ]Zookeeper[/color]
+[color=#bfbfbf]Authorisation is required by the Head of Personnel or Captain.[/color]
+───────────────────────────────────────
+[color=#b48b57][bolditalic]Cargo:[/bolditalic][/color]
+        (  ) [color=#b48b57 ]Cargo Technician [/color]
+        (  ) [color=#b48b57 ]Salvage Specialist[/color]
+[color=#bfbfbf]Authorisation is required by the Quartermaster or Captain.[/color]
+───────────────────────────────────────
+[color=#ff733c][bolditalic]Engineering:[/bolditalic][/color]
+        (  ) [color=#ff733c ]Station Engineer[/color]
+        (  ) [color=#ff733c ]Technical Assistant[/color]
+[color=#bfbfbf]Authorisation is required by the Chief Engineer or Captain.[/color]
+───────────────────────────────────────
+[color=#57b8f0][bolditalic]Medical:[/bolditalic][/color]
+        (  ) [color=#57b8f0 ]Chemist[/color]
+        (  ) [color=#57b8f0 ]Medical Doctor[/color]
+        (  ) [color=#57b8f0 ]Medical Intern[/color]
+        (  ) [color=#57b8f0 ]Psychologist[/color]
+        (  ) [color=#57b8f0 ]Paramedic[/color]
+	[color=#bfbfbf]Authorisation is required by the Chief Medical Officer or Captain.[/color]
+───────────────────────────────────────
+[color=#cd7ccd][bolditalic]Science:[/bolditalic][/color]
+        (  ) [color=#cd7ccd ]Roboticist[/color]
+        (  ) [color=#cd7ccd ]Scientist[/color]
+        (  ) [color=#cd7ccd ]Research Assistant[/color]
+[color=#bfbfbf]Authorisation is required by the Research Director or Captain.[/color]
+───────────────────────────────────────
+	[color=#ff4242][bolditalic]Security:[/bolditalic][/color]
+        (  ) [color=#ff4242 ]Detective [/color]
+        (  ) [color=#ff4242 ]Security Cadet [/color]
+        (  ) [color=#ff4242 ]Security Officer [/color]
+        (  ) [color=#ff4242 ]Warden [/color]
+[color=#bfbfbf]Authorisation is required by the Head of Security or Captain.
+A Mindshield implant must be administered to personnel requesting a job with access to secure areas.[/color]
+───────────────────────────────────────
+[color=#fcdf03][bolditalic]Command:[/bolditalic][/color]
+        (  ) [color=#fcdf03]Acting Chief Engineer[/color]
+        (  ) [color=#fcdf03]Acting Chief Medical Officer[/color]
+        (  ) [color=#fcdf03]Acting Head of Personnel[/color]
+        (  ) [color=#fcdf03]Acting Head of Security[/color]
+        (  ) [color=#fcdf03]Acting Quartermaster[/color]
+        (  ) [color=#fcdf03]Acting Research Director[/color]
+        (  ) [color=#fcdf03]Command Maid[/color]
+[color=#bfbfbf]Authorisation is required by the Captain.
+A Mindshield implant must be administered to personnel requesting a job with access to secure areas.[/color]
+───────────────────────────────────────
+[color=#000000][bolditalic]Other:[/bolditalic][/color]
+        (  ) [color=#000000 ]Resign[/color]
+        (  ) [color=#000000 ]Title Change:  [/color][color=#000000]N/A[/color]
+[color=#bfbfbf]Authorisation is required by the Head of Personnel or Captain.[/color]
+───────────────────────────────────────
+
+[head=2]Additional information[/head]
+
+[bullet]If a unique job is requested that is not listed above, and it requires access that the hiree does not currently have, they must additionally fill out an [bold]Access request form[/bold].
+[bullet]Multiple jobs can be approved so long as each required head of department has stamped and/or signed.
+[bullet]The Head of Personnel may authorise jobs if the required head of a department is unavailable, though this not apply to security or command.
+[bullet]Once authorised, the hiree must keep this form with them at all times.
+[bullet]This document does not protect the hiree from demotion by the individual who granted the authorisation or the Captain.
+
+───────────────────────────────────────
+[head=2]Authorization[/head]
+[/color]

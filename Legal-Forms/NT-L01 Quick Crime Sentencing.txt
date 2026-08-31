@@ -1,0 +1,57 @@
+# NT-L01 Quick Crime Sentencing
+[color=#134975]█▄ █ ▀█▀    [head=3]Quick Crime Sentencing[/head]
+█ ▀█     █        NT Justice Department
+─────────────────────────────────────────[/color]
+[bold]Subject:[/bold] NAME
+─────────────────────────────────────────
+[head=2][color=#4D2E2E][bold]I Degree[/color][/bold][/head]
+
+• (  ) R-1-01 Disturbance (Warn-2:00)
+• (  ) G-1-02 Petty Theft (1:00-3:00)
+• (  ) 0-1-03 Possession of Illegal Substances (Warn-3:00)
+• (  ) T-1-04 Trespass (Warn-2:00)
+• (  ) C-1-05 Vandalism (Warn-2:00)
+─────────────────────────────────────────
+[head=2][color=#4D2E2E][bold]II Degree[/color][/bold][/head]
+
+• (  ) 0-2-01 Animal Cruelty (2:00-5:00)
+• (  ) C-2-02 Destruction of Property (2:00-4:00)
+• (  ) M-2-03 Endangerment (2:00-4:00)
+• (  ) L-2-04 Failure to Comply (Warn-2:00)
+• (  ) 0-2-05 Possession of Restricted Gear (Warn-5:00)
+• (  ) R-2-06 Rioting (2:00-4:00)
+• (  ) F-2-07 Fraud (2:00-5:00)
+─────────────────────────────────────────
+[head=2][color=#4D2E2E][bold]III Degree[/color][/bold][/head]
+
+• (  ) 0-3-01 Assault (Warn-3:00)
+• (  ) M-3-02 Battery (1:00-3:00)
+• (  ) L-3-03 Breach of Arrest (2:00-4:00)
+• (  ) G-3-04 Grand Theft (3:00-6:00)
+• (  ) M-3-05 Manslaughter (4:00-10:00)
+• (  ) C-3-06 Mass Destruction (10:00-15:00)
+• (  ) 0-3-07 Possession of Restricted Weaponry (3:00-6:00)
+• (  ) T-3-08 Secure Trespass (3:00-8:00)
+• (  ) 0-3-09 Breach of Custody (2:00-5:00)
+─────────────────────────────────────────
+[head=2][color=#4D2E2E][bold]IV Degree[/color][/bold][/head]
+
+• (  ) 0-4-01 Kidnapping (4:00-10:00)
+• (  ) M-4-01 Murder (4:00-10:00)
+• (  ) F-4-01 Grand Fraud (5:00-15:00)
+─────────────────────────────────────────
+[head=2][color=#4D2E2E][bold]V Degree[/color][/bold][/head]
+
+• (  ) M-5-01 Mass Murder (Permanent)
+• (  ) 0-5-02 Capital Negligence (Demotion-Permanent)
+• (  ) 0-5-03 Prevention of Revival (15:00-Permanent)
+• (  ) 0-5-04 Refusal of Mental Shielding (Permanent)
+• (  ) 0-5-05 Terrorism (Permanent-Execution)
+─────────────────────────────────────────
+[color=#134975][head=2]Total Time: [bold]TIME[/bold][/head][/color]
+
+[italic][color=#aaaaaa]All times are maximum but not recommended sentences.
+Nested crimes do not stack, only use most severe offence.
+Give more leniency for first time offences and compliance. [/color][/italic]
+
+

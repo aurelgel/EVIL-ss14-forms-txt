@@ -1,0 +1,78 @@
+# NT-H01 Access Request Form
+[color=#404040][color=#1b67a5]█▄ █ ▀█▀    [head=3]Access Request Form[/head]
+█ ▀█      █        INVALID UNLESS STAMPED OR SIGNED
+───────────────────────────────────────
+This form is used to issue departmental access to specified personnel.
+───────────────────────────────────────[/color]
+
+[head=2]Personal details[/head]
+
+        [bolditalic]Name: [/bolditalic]
+
+        [bolditalic]Job: [/bolditalic]
+
+        [bolditalic]Shift time: [/bolditalic]
+
+        [bolditalic]Cause: [/bolditalic]
+
+        (  ) I certify that the provided information is accurate
+
+[head=2]Access request[/head]
+───────────────────────────────────────
+[bolditalic]Non-secure areas:[/bolditalic]
+        (  ) [color=#000000 ]External[/color]
+        (  ) [color=#000000 ]Maintenance[/color]d
+        (  ) [color=#539c00 ]Service[/color]
+                (  ) [color=#539c00 ]Bar[/color]
+                (  ) [color=#539c00 ]Kitchen[/color]
+                (  ) [color=#539c00 ]Hydroponics[/color]
+                (  ) [color=#539c00 ]Janitor[/color]
+                (  ) [color=#539c00 ]Chapel[/color]
+                (  ) [color=#539c00 ]Theatre[/color]
+                (  ) [color=#539c00 ]Lawyer[/color]
+                (  ) [color=#539c00 ]Library[/color]
+                (  ) [color=#539c00 ]Reporter[/color]
+        (  ) [color=#b48b57 ]Cargo[/color]
+                (  ) [color=#b48b57 ]Salvage[/color]
+                (  ) [color=#b48b57 ]Logistics[/color]
+        (  ) [color=#ff733c ]Engineering[/color]
+                (  ) [color=#ff733c ]Atmospherics[/color]
+        (  ) [color=#57b8f0 ]Medical[/color]
+                (  ) [color=#57b8f0 ]Chemistry[/color]
+                (  ) [color=#57b8f0 ]Cryogenics[/color]
+        (  ) [color=#cd7ccd]Research[/color]
+                (  ) [color=#cd7ccd]Robotics[/color]
+[color=#bfbfbf]Authorization is required by the head of the department or the captain.[/color]
+───────────────────────────────────────
+[bolditalic]Secure areas:[/bolditalic]
+        (  ) [color=#ff4242]Security [/color]
+                (  ) [color=#ff4242 ]Brig [/color]
+                (  ) [color=#ff4242 ]Armory [/color]
+                (  ) [color=#ff4242 ]Warden [/color]
+                (  ) [color=#ff4242 ]Detective [/color]
+                (  ) [color=#ff4242 ]Enter Genpop [/color]
+                (  ) [color=#ff4242 ]Leave Genpop[/color]
+        (  ) [color=#fcdf03]Command[/color]
+                (  ) [color=#fcdf03 ]Captain [/color]
+                (  ) [color=#fcdf03 ]Head of Personnel [/color]
+                (  ) [color=#fcdf03 ]Head of Security [/color]
+                (  ) [color=#fcdf03 ]Chief Engineer [/color]
+                (  ) [color=#fcdf03 ]Chief Medical Officer [/color]
+                (  ) [color=#fcdf03 ]Research Director [/color]
+                (  ) [color=#fcdf03 ]Quartermaster [/color]
+[color=#bfbfbf]Authorization is required by the head of the department or the captain.
+A Mindshield implant must be administered to personnel requesting access to secure areas.[/color]
+───────────────────────────────────────
+
+[head=2]Additional information[/head]
+
+[bullet]Multiple accesses can be approved so long as each required head of department has stamped and/or signed.
+[bullet]The Captain or Head of Personnel may authorise access if the required head of a department is unavailable, with the exception of secure areas.
+[bullet]Once authorised, the permit holder must keep this permit with them at all times.
+[bullet]This permit can be revoked at any time by the individual who granted it or the Captain.
+
+───────────────────────────────────────
+[head=2]Authorization[/head]
+[/color]
+
+

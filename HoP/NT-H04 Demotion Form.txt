@@ -1,0 +1,52 @@
+# NT-H04 Demotion Form
+[color=#404040][color=#1b67a5]█▄ █ ▀█▀    [head=3]Equipment Replacement Form[/head]
+█ ▀█      █        INVALID UNLESS STAMPED OR SIGNED
+───────────────────────────────────────
+This form is used to demote personnel.
+───────────────────────────────────────[/color]   
+        
+        [bolditalic]Name:[/bolditalic]
+
+        [bolditalic]Position: [/bolditalic]
+
+        [bolditalic]Shift time: [/bolditalic]
+
+        [bolditalic]Cause: [/bolditalic]
+
+[head=2]Demotee information[/head]
+
+        [bolditalic]Name: [/bolditalic]
+
+        [bolditalic]Position: [/bolditalic]
+
+        [bolditalic]New position: [/bolditalic]
+
+───────────────────────────────────────
+[italic][color=#aaaaaa]This form requires the signature and stamp of the Department Head or the Captain. Upon demotion, all equipment relating to the demotee's previous position must be returned, including uniforms.[/italic][/color]
+───────────────────────────────────────
+[head=2]Authorization[/head]
+[/color]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

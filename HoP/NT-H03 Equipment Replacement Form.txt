@@ -1,0 +1,25 @@
+# NT-H03 Equipment Replacement Form
+[color=#404040][color=#1b67a5]█▄ █ ▀█▀    [head=3]Equipment Replacement Form[/head]
+█ ▀█      █        INVALID UNLESS STAMPED OR SIGNED
+───────────────────────────────────────
+This form is used to issue replacement equipment.
+───────────────────────────────────────[/color]
+
+        [bolditalic]Name: [/bolditalic]
+
+        [bolditalic]Position: [/bolditalic]
+
+        [bolditalic]Shift time:[/bolditalic]
+
+        [bolditalic]Required item(s): [/bolditalic]
+
+        [bolditalic]Cause: [/bolditalic]
+
+
+        [  ] I certify that the provided information is accurate
+
+───────────────────────────────────────
+[italic][italic][color=#aaaaaa]NT withholds the right to deny any and all applications for replacement equipment. Excessive equipment loss or damage is to be compensated for out of personal income and accounts.[/italic][/italic][/color]
+───────────────────────────────────────
+[head=2]Authorization[/head]
+[/color]

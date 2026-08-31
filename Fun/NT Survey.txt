@@ -1,7 +1,7 @@
 # NanoTrasen Survey
-[color=#1b67a5]█▄ █ ▀█▀    [head=3]NanoTrasen Survey[/head]
-█ ▀█     █        Please answer the following questions[/color]
-──────────────────────────────────────────
+[color=#404040][color=#1b67a5]█▄ █ ▀█▀    [head=3]Nanotrasen survey[/head]
+█ ▀█      █         Please respond to the following questions
+──────────────────────────────────────[/color]
 Hello! NanoTrasen has requested that a survey be conducted on the population of all its stations to gauge the opinions of the crew. Please take a few moments to answer the following questions honestly, before returning your filled out survey to the survey facilitator. Your facilitator today is:
 
 Facilitator Name:    [italic]NAME HERE[/italic]
@@ -52,46 +52,35 @@ Other Education:    [color=#002AAF]Sample Answer[/color]
 [bold]Please respond to each of the following statements on a scale of 1 to 5 for how much you would agree with them, 1 if you strongly disagree, 5 if you strongly agree.[/bold]
 
 I love working on a NanoTrasen Station:
-
 I feel safe working on a NanoTrasen Station:
-
 I am satisfied with my wages and benefits:
-
 NanoTrasen Stations are always clean and well maintained:
-
 I love NanoTrasen as a company and agree with their values:
-
 I enjoy my coworkers presence:
 
-
 I regularly drink alcohol:
-
 I regularly smoke:
-
 I regularly drink caffeinated beverages:
 
-
 I work my hardest:
-
 I respect others:
-
 I listen to my superiors:
 
 [bold]Please rate each department on a scale of 1 to 5 based on how your recent experiences have been with them, 1 being horrible, 5 being great.[/bold]
 
-Command:
-
-Security:
-
-Cargo:
-
-Engineering:
-
-Medical:
-
-Science:
-
-Service:
+[color=#fcdf03]Command:
+[/color]
+[color=#ff4242]Security: [/color]
+[color=#b48b57 ]Cargo:
+[/color]
+[color=#ff733c ]Engineering:
+[/color]
+[color=#57b8f0 ]Medical:
+ [/color]
+[color=#cd7ccd]Science:
+[/color]
+[color=#539c00 ]Service:
+[/color]
 
 
 [head=1]Congratulations![/head]
