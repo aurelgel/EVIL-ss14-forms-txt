@@ -1,0 +1,88 @@
+# Incident Report Form
+[color=#92beca]▀█▀[/color] [color=#af7244]█▀█[/color]   │  [head=3][color=#141d2b]Trieste Incident Report Form[/color][/head]
+[color=#ffffff]░[/color][color=#92beca]█[/color][color=#ffffff]░[/color] [color=#af7244]█▀▀[/color]   │  [color=#141d2b][bold]Standardized Form 100[/bold][/color]
+─────────────────────────────────────────
+[color=#141d2b]This document is to help you report incidents in a standard and concise fashion.
+
+[head=3][head=2]§1[/head] Severity[/head]
+
+1.1 How severe is the incident? (select one)
+(  ) Negligible
+(  ) Minor
+(  ) Considerable
+(  ) Serious
+(  ) Platform/Sweetwater Threatening
+
+1.2 How many people are affected by the incident?
+(  ) Just a few
+(  ) More than a handful
+(  ) Dozens
+(  ) Half of the station
+(  ) Most of the station
+(  ) Everyone or almost everyone
+
+──────────────────────────────────────────
+[head=3][head=2]§2[/head] Timing[/head]
+
+2.1 Is the incident still ongoing?
+(  ) No
+(  ) Yes
+(  ) Unsure
+
+2.2 When did the incident occur?
+(  ) Exactly,
+(  ) Approximately,
+    [color=#002AAF]Sample Time in HH:MM:SS[/color]
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+(  ) Unsure
+
+──────────────────────────────────────────
+[head=3][head=2]§3[/head] Nature of Incident[/head]
+
+3.1 Does the incident involve any of the following?
+\[  ] A nuclear threat
+\[  ] Civil unrest/uprising
+\[  ] A contagion/disease
+\[  ] Corrupt command staff
+\[  ] Departmental insubordination
+\[  ] Harmful non-humanoid lifeforms
+\[  ] Nanotrasen or Syndicate incursion?
+\[  ] Harmful anomalous entities/objects
+\[  ] Harmful artifacts of alien or unknown origin
+
+3.2 These areas are particularly endangered:
+\[  ] Sweetwater:
+\[  ] Sci     \[  ] Engi  \[  ] Service       \[  ] Bar      \[  ] Other
+
+\[  ] Trieste Platform:
+\[  ] Med  \[  ] Sec    \[  ] Command \[  ] Cargo \[  ] Other
+
+3.3 Are any of the following true?
+\[  ] Power very low or out completely
+\[  ] Large areas of the station are flooded/unbreathable
+\[  ] Non security staff are armed
+\[  ] Medical is destroyed
+\[  ] The AI has been compromised
+\[  ] The bridge is destroyed
+\[  ] One or more command are dead
+\[  ] The bar is unable to dispense alcohol
+
+3.4 Are any of the departments completely destroyed and/or non-functional?
+\[  ] Sci     \[  ] Engi  \[  ] Service         \[  ] Cargo        
+\[  ] Med  \[  ] Sec   \[  ] Command    \[  ] The Bar
+
+──────────────────────────────────────────
+[head=3][head=2]§4[/head] Incident Summary[/head]
+
+4.1 Please describe a brief and descriptive account of the incident:
+    [color=#002AAF]Sample Large Answer[/color]
+
+
+
+You may sign your name here if you would like to be followed up with directly in regards to the incident. If you would rather remain anonymous, you may do so.
+
+Author:    [color=#002AAF]Sample Name[/color]
+                ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+
+[/color]
